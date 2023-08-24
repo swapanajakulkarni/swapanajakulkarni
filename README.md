@@ -1,8 +1,8 @@
 - Hi, I’m @swapanajakulkarni
-- An Engineering Student pursuing Engineering(Final year)
+- A Computer Engineer with an aggregate of 7.47.
 - On the way to become a Frontend developer.
-- Experties are HTML,CSS, Beginner in Java and JavaScript.
-- More known programming languages are C, C++.
+- Experties are HTML,CSS and JavaScript.
+- More known programming languages are C, C++, Python, .net, MySQL.
 
 <!---
 swapanajakulkarni/swapanajakulkarni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
